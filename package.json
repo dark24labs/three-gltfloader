@@ -1,0 +1,10 @@
+{
+	"name": "three-gltfloader",
+	"peerDependencies": {
+		"three": ">= 0.107.0"
+	},
+	"main": "GLTFLoader.js",
+	"files": [
+		"GLTFLoader.js"
+	]
+}
